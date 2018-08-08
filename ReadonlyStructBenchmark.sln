@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadonlyStructBenchmark", "ReadonlyStructBenchmark\ReadonlyStructBenchmark.csproj", "{10613953-92B1-4AED-A113-F5DAAB788942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10613953-92B1-4AED-A113-F5DAAB788942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10613953-92B1-4AED-A113-F5DAAB788942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10613953-92B1-4AED-A113-F5DAAB788942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10613953-92B1-4AED-A113-F5DAAB788942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6649692A-0FA8-42D1-B0A7-E5E6FBBCCA18}
+	EndGlobalSection
+EndGlobal
